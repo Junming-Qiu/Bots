@@ -1,1 +1,1 @@
-# Bots
+Different bots for different purposes
